@@ -8,8 +8,9 @@ body{
 .gray-color{
     color: rgb(100, 81, 81);
 }
-section{
+.flexible-conteiner{
     display: flex;
+    margin-bottom: 30px;
 }
 .half-width{
     width: 50%;
@@ -18,10 +19,21 @@ section{
 .half-width img{
     width: 70%;
 }
+.three-box{
+    width: 30%;
+    padding: 3%;
+    margin-left: 31px;
+}
+.three-box img{
+    width: 40%;
+}
 .frist-link-button{
     color: white;
     text-decoration: none;
     background-color: rgba(236, 79, 79, 0.959);
     padding: 9px 20px;
     border-radius: 5px;
+}
+.box{
+    box-shadow: 20px 30px grey;
 }
