@@ -1,7 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto Slab', serif;
-    margin-left: 10px;
+    margin-left: 8%;
 }
 .orenge-color{
     color: rgba(255, 166, 0, 0.966);
@@ -11,28 +11,20 @@ body{
 }
 .flexible-conteiner{
     display: flex;
-    margin-bottom: 30px;
-    
+    margin-bottom: 80px;
+    margin-left: 10px;
 }
 .half-width{
     width: 50%;
-    padding: 7%;
+    padding: 7px;
 }
 .half-width img{
-    width: 70%;
-}
-.section03{
-    width: 50%;
-    padding: 7%;
-    
-}
-.section03 img{
     width: 70%;
 }
 .three-box{
     width: 90%;
     padding: 3%;
-    margin-left: 40px;
+    margin-left: 10px;
 }
 .three-box img{
     width: 40%;
