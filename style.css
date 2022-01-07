@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto Slab', serif;
+    margin-left: 10px;
 }
 .orenge-color{
     color: rgba(255, 166, 0, 0.966);
@@ -11,6 +12,7 @@ body{
 .flexible-conteiner{
     display: flex;
     margin-bottom: 30px;
+    
 }
 .half-width{
     width: 50%;
@@ -20,12 +22,24 @@ body{
     width: 70%;
 }
 .three-box{
-    width: 30%;
+    width: 90%;
     padding: 3%;
-    margin-left: 31px;
+    margin-left: 40px;
 }
 .three-box img{
     width: 40%;
+}
+#dev01{
+    background-color: rgba(214, 230, 214, 0.918);
+    border-radius: 11px;
+}
+#dev02{
+    background-color: rgb(250, 225, 225);
+    border-radius: 11px;
+}
+#dev03{
+    background-color: rgb(230, 233, 195);
+    border-radius: 11px;
 }
 .frist-link-button{
     color: white;
@@ -34,6 +48,4 @@ body{
     padding: 9px 20px;
     border-radius: 5px;
 }
-.box{
-    box-shadow: 20px 30px grey;
-}
+
