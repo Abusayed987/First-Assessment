@@ -55,3 +55,15 @@ body{
     font-style: italic;
     color: rgba(2, 69, 255, 0.959);
 }
+.copy-right{
+    width: 100%;
+background-color: black;
+color: white;
+font-style: oblique;
+}
+.last-color{
+    color: rgba(236, 79, 79, 0.959);
+}
+.blue{
+    color: rgba(123, 123, 247, 0.932);
+}
