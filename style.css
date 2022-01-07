@@ -67,3 +67,7 @@ font-style: oblique;
 .blue{
     color: rgba(123, 123, 247, 0.932);
 }
+.red-line{
+    border-left: 3.5px solid red;
+    padding-left: 9px; 
+}
