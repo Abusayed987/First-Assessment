@@ -1,0 +1,10 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    color: rgba(255, 187, 0, 0.979);
+}
+.half-width{
+    display: flex;
+    width: 50%;
+}
